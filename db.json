@@ -1,19 +1,11 @@
 {
-  "tarefas": [
+  "posts": [
     {
       "id": 1,
-      "titulo": "hello",
-      "descricao": "asdasdasdasd"
-    },
-    {
-      "id": 2,
-      "titulo": "hello",
-      "descricao": "asdasdasdasd"
-    },
-    {
-      "id": 3,
-      "titulo": "hello",
-      "descricao": "asdasdasdasd"
-    },
+      "title": "hello"
+    }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
